@@ -8,5 +8,6 @@ target 'WeatherApp' do
   pod 'RxSwift', '6.5.0'
   pod 'RxCocoa', '6.5.0'
   pod 'EasyTipView', '~> 2.1'
+  pod 'Swinject'
 	
 end
